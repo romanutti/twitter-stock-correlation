@@ -1,0 +1,12 @@
+pandas
+matplotlib
+tweepy
+numpy
+pandas_datareader
+fix_yahoo_finance
+textblob
+scipy
+seaborn
+altair
+vega_datasets
+vega
